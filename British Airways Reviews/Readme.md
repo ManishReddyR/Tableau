@@ -2,7 +2,7 @@
 
 This repository contains the Tableau dashboard created using the British Airways Reviews Dataset.
 
-# Dashboard Privew
+# Dashboard Preview
 (Screenshot.png)
 ![alt text](image.png)
 
