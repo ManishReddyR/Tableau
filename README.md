@@ -4,7 +4,7 @@ This repository contains the Tableau dashboard created using the British Airways
 
 # Dashboard Preview
 (Screenshot.png)
-![alt text](image.png)
+![alt text](British Airways Reviews/image.png)
 
 # View Interactive Dashboard
 (On Tableau Public)(https://public.tableau.com/app/profile/manish.reddy.rakasi/viz/Book1_17396640579180/Final?publish=yes)
